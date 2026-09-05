@@ -1,0 +1,4 @@
+tkinter
+networkx
+matplotlib
+numpy
